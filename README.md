@@ -1,18 +1,6 @@
-# SP/Thesis Title
-Include abstract and authors
+# My Special Problem: An example of CMSC 190 GitHub Repository
+Authors: Juan D. Cruz and Adviser' S. Name
 
-The file structure is shown below.
-```
-<repo name>
-├── code            # directory for source code
-│   ├── ...
-├── presentation    # directory for various documents
-│   ├── <repo name>_journal.pdf      # IEEE journal
-│   ├── <repo name>_manuscript.pdf   # manuscript as described by adviser
-│   ├── <repo name>_slides.pdf       # presentation slides
-│   ├── <repo name>_poster.png       # 2x3 ft poster
-│   └── <repo name>_demo.mp4         # short demo video
-├── CHANGELOGS.md   # history of enrollment; see file for example
-├── INSTALL.md      # installation steps and dev environment setup
-└── README.md       # abstract and authors
-```
+This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+
+Keywords: template, submission, repository, example
